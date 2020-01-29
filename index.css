@@ -1,0 +1,13 @@
+
+.jumbotron {
+  margin: 10%;
+  margin-top: 5%;
+}
+#navbarNav li{
+  font-size: 150%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+#navbarNav ul{
+  width: 90%;
+}
